@@ -1,2 +1,13 @@
-https://github.com/adrianhajdin/ai-resume-analyzer
-https://drive.google.com/drive/folders/18DKYW70r5XPnyXOu8o5-Auvyea17Pzgr
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
